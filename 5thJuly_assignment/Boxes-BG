@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CSS Basic Designing – Practical Assignment</title>
+  <link rel="stylesheet" href="style2.css" />
+</head>
+<body>
+
+  <header class="header">Header Section</header>
+
+  <section class="content-box">
+    <p>This is a styled content box with dashed border and custom colors.</p>
+  </section>
+
+  <div class="profile-card"></div>
+
+  <section class="task-box">
+    <p>This is a paragraph inside a styled box.</p>
+  </section>
+
+  <div class="button-group">
+    <button class="btn red">Red</button>
+    <button class="btn green">Green</button>
+    <button class="btn yellow">Yellow</button>
+  </div>
+
+  <div class="circle"></div>
+
+  <div class="card"></div>
+
+  <div class="notification">
+    <strong>⚠ Warning:</strong> Please check your input.
+  </div>
+
+  <footer class="footer">Footer Section</footer>
+
+</body>
+</html>
